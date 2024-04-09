@@ -11,26 +11,26 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 <li><strong>Build a Palindrome Checker Project</strong>
 </ul>
 <ul>
-<li>Learn Modern JavaScript Methods by Building Football Team Cards, Not started
-<li>Learn localStorage by Building a Todo App, Not started
-<li>Learn Recursion by Building a Decimal to Binary Converter, Not started
-<li>Build a Roman Numeral Converter ProjectCertification Project
+<li>Learn Modern JavaScript Methods by Building Football Team Cards
+<li>Learn localStorage by Building a Todo App
+<li>Learn Recursion by Building a Decimal to Binary Converter
+<li><strong>Build a Roman Numeral Converter Project</strong>
 </ul>
 <ul>
-<li>Learn Basic Algorithmic Thinking by Building a Number Sorter, Not started
-<li>Learn Advanced Array Methods by Building a Statistics Calculator, Not started
-<li>Learn Functional Programming by Building a Spreadsheet, Not started
-<li>Learn Regular Expressions by Building a Spam Filter, Not started
-<li>Build a Telephone Number Validator ProjectCertification Project
+<li>Learn Basic Algorithmic Thinking by Building a Number Sorter
+<li>Learn Advanced Array Methods by Building a Statistics Calculator
+<li>Learn Functional Programming by Building a Spreadsheet
+<li>Learn Regular Expressions by Building a Spam Filter
+<li><strong>Build a Telephone Number Validator Project</strong>
 </ul>
 <ul>
-<li>Learn Basic OOP by Building a Shopping Cart, Not started
-<li>Learn Intermediate OOP by Building a Platformer Game, Not started
-<li>Learn Intermediate Algorithmic Thinking by Building a Dice Game, Not started
-<li>Build a Cash Register ProjectCertification Project
+<li>Learn Basic OOP by Building a Shopping Cart
+<li>Learn Intermediate OOP by Building a Platformer Game
+<li>Learn Intermediate Algorithmic Thinking by Building a Dice Game
+<li><strong>Build a Cash Register Project</strong>
 </ul>
 <ul>
-<li>Learn Fetch and Promises by Building an fCC Authors Page, Not started
-<li>Learn Asynchronous Programming by Building an fCC Forum Leaderboard, Not started
-<li>Build a Pokémon Search App ProjectCertification Project
+<li>Learn Fetch and Promises by Building an fCC Authors Page
+<li>Learn Asynchronous Programming by Building an fCC Forum Leaderboard
+<li><strong>Build a Pokémon Search App Project</strong>
 </ul>
